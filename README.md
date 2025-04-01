@@ -19,7 +19,15 @@
   - Using Chroma for document storage and retrieval
   - Building Q&A systems with RAG architecture
 
-### Day 3: Coming soon...
+### Day 3: Function Calling and Agent Building
+- **Function Calling with Gemini API**: 
+  - Understanding function calling capabilities
+  - Building chat interfaces with automatic function calling
+  - Practical implementation of function-enabled conversations
+- **Building Agents with LangGraph**: 
+  - Introduction to LangGraph framework
+  - Creating and deploying AI agents
+  - Implementing agent-based workflows and interactions
 
 ### Day 4: Coming soon...
 
