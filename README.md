@@ -11,7 +11,13 @@
   - Working with structured outputs
   - Practical evaluation challenges and solutions
 
-### Day 2: Coming soon...
+### Day 2: Embeddings, Classification and RAG
+- **Embeddings and Similarity**: Working with embeddings from Gemini API and calculating similarity scores
+- **Classification with Keras**: Using embeddings for classification tasks with Keras
+- **Document Q&A with RAG**: 
+  - Implementation of Retrieval-Augmented Generation (RAG)
+  - Using Chroma for document storage and retrieval
+  - Building Q&A systems with RAG architecture
 
 ### Day 3: Coming soon...
 
