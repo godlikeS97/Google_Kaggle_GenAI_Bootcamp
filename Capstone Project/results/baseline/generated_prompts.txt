@@ -1,0 +1,3118 @@
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1641
+* **Title:** A triple waterfall, a dead tree at right, a mountain and a herd of cows in the background at right, plate 7 from "Roman landscapes and ruins" (Paysages et ruines de Rome)
+* **Artist Role:** Artist|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1651
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1610      |1580      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Florence 1610–1664 Florence|French, baptized Chartres, 1588–1647 Paris
+* **Dimensions:** Plate: 5 1/8 × 5 1/8 in. (13 × 13 cm)
+Sheet: 5 1/4 × 5 5/16 in. (13.4 × 13.5 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1646
+* **Artist End Date:** 1664      |1647      
+* **Medium:** Etching; fourth state of nine (Talbierska)
+* **Artist Nationality:** Italian|French
+* **Tags:** Waterfalls|Mountains|Landscapes|Trees
+* **Artist Display Name:** Stefano della Bella|François Langlois
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1799
+* **Title:** Plate 42 from "Los Caprichos": Thou who canst not (Tu que no puedes)
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1799
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1746      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Spanish, Fuendetodos 1746–1828 Bordeaux
+* **Dimensions:** Plate: 8 7/16 × 5 15/16 in. (21.5 × 15.1 cm)
+Sheet: 11 5/8 x 8 1/4 in. (29.5 x 20.9 cm)
+* **Classification:** Prints
+* **Object Date:** 1799
+* **Artist End Date:** 1828      
+* **Medium:** Etching, burnished aquatint
+* **Artist Nationality:** Spanish
+* **Tags:** Men|Donkeys
+* **Artist Display Name:** Goya (Francisco de Goya y Lucientes)
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1830
+* **Title:** Design for a Stage Set at the Opéra, Paris
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1890
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1813      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Paris 1813–1890 Fontainebleau
+* **Dimensions:** sheet: 11 1/16 x 16 3/4 in. (28.1 x 42.5 cm)
+* **Classification:** Drawings
+* **Object Date:** 1830–90
+* **Artist End Date:** 1890      
+* **Medium:** Graphite, gouache, heightened with white
+* **Artist Nationality:** French
+* **Tags:** Theatre|Stage Design
+* **Artist Display Name:** Eugène Cicéri
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1530
+* **Title:** Jupiter, from Planets, plate 2
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1570
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1510      |1500      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, active Rome and Bologna, 1531–after 1576|French, active Lyon, 1529–57
+* **Dimensions:** Sheet: 6 in. × 3 11/16 in. (15.3 × 9.4 cm)
+Plate: 5 7/8 × 3 9/16 in. (15 × 9.1 cm)
+* **Classification:** Prints
+* **Object Date:** 1530–70
+* **Artist End Date:** 1576      |1600      
+* **Medium:** Engraving
+* **Artist Nationality:** Italian|French
+* **Tags:** Jupiter
+* **Artist Display Name:** Giulio Bonasone|Georges Reverdy
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1880
+* **Title:** Card Number 620, Laura Wood, from the Actors and Actresses series (N145-3) issued by Duke Sons & Co. to promote Cross Cut Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1889
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1870      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York and Durham, N.C.
+* **Dimensions:** Sheet: 2 11/16 × 1 3/8 in. (6.8 × 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1880s
+* **Artist End Date:** 1920      
+* **Medium:** Albumen photograph
+* **Artist Nationality:** American
+* **Tags:** Portraits|Women|Actresses
+* **Artist Display Name:** W. Duke, Sons & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1640
+* **Title:** Hercules after the antique
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1671
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1628      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Dutch, Amsterdam 1628–1671 The Hague
+* **Dimensions:** sheet: 8 3/4 x 4 1/2 in. (22.2 x 11.4 cm)
+* **Classification:** Prints
+* **Object Date:** 17th century
+* **Artist End Date:** 1671      
+* **Medium:** N/A
+* **Artist Nationality:** Dutch
+* **Tags:** Hercules
+* **Artist Display Name:** Jan de Bisschop
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1548
+* **Title:** Seated Male Figure with the Head of an Onlooker (recto); Standing Male Figure in a Monk's Habit (verso)
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1612
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1548      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, San Marino di Valdelsa 1548–1612 Florence
+* **Dimensions:** sheet: 15 1/2 x 9 3/8 in. (39.4 x 23.8 cm)
+* **Classification:** Drawings
+* **Object Date:** 1548–1612
+* **Artist End Date:** 1612      
+* **Medium:** Charcoal with traces of white chalk highlights
+* **Artist Nationality:** Italian
+* **Tags:** Heads|Men
+* **Artist Display Name:** Bernardino Poccetti
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1585
+* **Title:** Virtue as a young woman in the centre of four figures representing love, error, ignorance and opinion
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1585
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1558      |1547      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Mantua 1558/1559–1629|Italian, Verona 1547–1627 Florence
+* **Dimensions:** Sheet: 18 11/16 × 12 13/16 in. (47.5 × 32.6 cm)
+* **Classification:** Prints
+* **Object Date:** 1585
+* **Artist End Date:** 1629      |1627      
+* **Medium:** Chiaroscuro woodcut from four blocks printed in orange ink
+* **Artist Nationality:** Italian|Italian
+* **Tags:** Men|Women
+* **Artist Display Name:** Andrea Andreani|Jacopo Ligozzi
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1475
+* **Title:** A Figure and Some Architectural Details.
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1564
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1475      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Caprese 1475–1564 Rome
+* **Dimensions:** sheet: 7 5/16 x 8 1/8 in. (18.6 x 20.7 cm)
+* **Classification:** Drawings
+* **Object Date:** 1475–1564
+* **Artist End Date:** 1564      
+* **Medium:** Pen and brown ink
+* **Artist Nationality:** Italian
+* **Tags:** Human Figures|Architecture
+* **Artist Display Name:** Michelangelo Buonarroti
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1889
+* **Title:** Favette, from the Ballet Queens series (N182) issued by Wm. S. Kimball & Co.
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1889
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** Sheet: 2 3/4 × 1 1/2 in. (7 × 3.8 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1889
+* **Artist End Date:**           
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:**  
+* **Tags:** Women|Dancers
+* **Artist Display Name:** William S. Kimball & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1500
+* **Title:** Woman Examining an Armillary Sphere
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1599
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1500      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, active 16th century
+* **Dimensions:** N/A
+* **Classification:** Prints
+* **Object Date:** 16th century
+* **Artist End Date:** 1600      
+* **Medium:** Etching
+* **Artist Nationality:** Italian
+* **Tags:** Male Nudes|Women|Female Nudes
+* **Artist Display Name:** Master F. P.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1544
+* **Title:** Page from Ein new kunstlich Modelbuch...(Page 38v)
+* **Artist Role:** Publisher
+* **Object Name:** Books Prints Ornament & Architecture
+* **Object End Date:** 1544
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1500      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, active Cologne, 1518–46
+* **Dimensions:** Overall: 7 11/16 x 5 7/8 in. (19.5 x 15 cm)
+* **Classification:** Books|Prints|Ornament & Architecture
+* **Object Date:** 1544
+* **Artist End Date:** 1550      
+* **Medium:** Woodcut
+* **Artist Nationality:** German
+* **Tags:** Ornament
+* **Artist Display Name:** Peter Quentel
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1512
+* **Title:** Pilate Washing His Hands, from "The Passion"
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1512
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1471      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Nuremberg 1471–1528 Nuremberg
+* **Dimensions:** Sheet: 4 9/16 × 2 15/16 in. (11.6 × 7.4 cm)
+* **Classification:** Prints
+* **Object Date:** 1512
+* **Artist End Date:** 1528      
+* **Medium:** Engraving
+* **Artist Nationality:** German
+* **Tags:** Men
+* **Artist Display Name:** Albrecht Dürer
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1830
+* **Title:** Design for wallpaper featuring blue shields surmouted by crowns
+* **Artist Role:** Artist|Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1897
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1897      |1820      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, died 1897|French, Paris 1820–1889
+* **Dimensions:** Overall: 12 3/8 x 9 7/16 in. (31.4 x 24 cm)
+image: 2 5/8 x 2 3/16 in. (6.7 x 5.5 cm)
+* **Classification:** Drawings
+* **Object Date:** 1830–97
+* **Artist End Date:** 1897      |1889      
+* **Medium:** graphite and gouache on wove paper
+* **Artist Nationality:** French|French
+* **Tags:** N/A
+* **Artist Display Name:** Jules-Edmond-Charles Lachaise|Eugène-Pierre Gourdet
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1620
+* **Title:** A Horseman by a Fence
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1690
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1609      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Dutch, Lille 1609–1690 Utrecht
+* **Dimensions:** sheet: 9 1/8 x 11 3/4 in. (23.1 x 29.8 cm)
+* **Classification:** Prints
+* **Object Date:** 17th century
+* **Artist End Date:** 1690      
+* **Medium:** Etching; third or fourth state of four
+* **Artist Nationality:** Dutch
+* **Tags:** Landscapes
+* **Artist Display Name:** Anthonie Waterloo
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1887
+* **Title:** E.A. Trickett, Oarsman, from World's Champions, Series 1 (N28) for Allen & Ginter Cigarettes
+* **Artist Role:** Lithographer|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1887
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           |          
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, New York|American, Richmond, Virginia
+* **Dimensions:** Sheet: 2 3/4 x 1 1/2 in. (7 x 3.8 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1887
+* **Artist End Date:**           |          
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:** American|American
+* **Tags:** Men|Portraits|Rowing|Athletes
+* **Artist Display Name:** Lindner, Eddy & Claus|Allen & Ginter
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1530
+* **Title:** Essempio di recammi, page 6 (recto)
+* **Artist Role:** Author|Publisher
+* **Object Name:** Books Prints Ornament & Architecture
+* **Object End Date:** 1530
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1465      |1522      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Venice ca. 1465–1528 Venice|Italian, active Venice, ca. 1522–1545
+* **Dimensions:** Overall: 7 13/16 x 6 3/16 x 3/8 in. (19.8 x 15.7 x 1 cm)
+* **Classification:** Books|Prints|Ornament & Architecture
+* **Object Date:** 1530
+* **Artist End Date:** 1528      |1545      
+* **Medium:** Woodcut
+* **Artist Nationality:** Italian|Italian
+* **Tags:** Ornament
+* **Artist Display Name:** Giovanni Antonio Tagliente|Giovanni Antonio di Nicolini da Sabio e i fratelli
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1841
+* **Title:** Design for a Screen
+* **Artist Role:** Artist
+* **Object Name:** Drawing ; Ornament and Architecture
+* **Object End Date:** 1884
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1841      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** British, London 1841–1917 London
+* **Dimensions:** sheet: 10 7/16 x 7 1/8 in. (26.5 x 18.1 cm)
+* **Classification:** Drawings|Ornament & Architecture
+* **Object Date:** 1841–84
+* **Artist End Date:** 1917      
+* **Medium:** Pen and brown ink over graphite
+* **Artist Nationality:** British
+* **Tags:** Screens
+* **Artist Display Name:** Charles Hindley and Sons
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1744
+* **Title:** Prisoners on a Projecting Platform, from "Carceri d'invenzione" (Imaginary Prisons)
+* **Artist Role:** Artist|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1755
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1720      |1700      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Mogliano Veneto 1720–1778 Rome|French, ca. 1716–1795
+* **Dimensions:** Sheet: 19 1/2 x 25 3/16 in. (49.5 x 64 cm)
+Plate: 16 1/8 x 21 1/4 in. (41 x 54 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1749–50
+* **Artist End Date:** 1778      |1795      
+* **Medium:** Etching, engraving, sulphur tint or open bite, burnishing; first state of four (Robison)
+* **Artist Nationality:** Italian|Italian
+* **Tags:** Prisoners|Human Figures
+* **Artist Display Name:** Giovanni Battista Piranesi|Giovanni Bouchard
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1550
+* **Title:** The Holy Family, an angel holding flowers approaching from the right
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1553
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1510      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Zadar (Zara) ca. 1510?–1563 Venice
+* **Dimensions:** sheet: 12 13/16 x 8 7/16 in. (32.5 x 21.5 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1550–53
+* **Artist End Date:** 1563      
+* **Medium:** Etching with plate tone
+* **Artist Nationality:** Italian
+* **Tags:** Holy Family|Saint Joseph|Angels|Christ|Virgin Mary
+* **Artist Display Name:** Andrea Schiavone (Andrea Meldola)
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1850
+* **Title:** Design for Vis-à-vis, no. 638
+* **Artist Role:** Manufacturer
+* **Object Name:** Drawing
+* **Object End Date:** 1870
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, New York
+* **Dimensions:** sheet: 5 3/4 x 8 5/8 in. (14.6 x 21.9 cm)
+* **Classification:** Drawings
+* **Object Date:** 1850–70
+* **Artist End Date:**           
+* **Medium:** Pen and black ink, watercolor and gouache
+* **Artist Nationality:** American
+* **Tags:** Carriages
+* **Artist Display Name:** Brewster & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1610
+* **Title:** Fiore D'Ogni Virtu Per le Nobili Et Honeste Matrone, title page (recto)
+* **Artist Role:** Designer|Publisher
+* **Object Name:** Books Prints Ornament & Architecture
+* **Object End Date:** 1610
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1565      |          
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, ca. 1565/70–ca. 1625| 
+* **Dimensions:** Overall: 7 7/8 x 10 1/4 in. (20 x 26 cm)
+* **Classification:** Books|Prints|Ornament & Architecture
+* **Object Date:** 1610
+* **Artist End Date:** 1625      |          
+* **Medium:** Woodcut
+* **Artist Nationality:** Italian|Italian
+* **Tags:** Coat of Arms
+* **Artist Display Name:** Isabella Catanea Parasole|Antonio Fachetti
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1880
+* **Title:** Card Number 154, Julia Verene, from the Actors and Actresses series (N145-5) issued by Duke Sons & Co. to promote Cameo Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1889
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1870      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York and Durham, N.C.
+* **Dimensions:** Sheet: 2 11/16 × 1 3/8 in. (6.8 × 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1880s
+* **Artist End Date:** 1920      
+* **Medium:** Albumen photograph
+* **Artist Nationality:** American
+* **Tags:** Portraits|Women|Actresses
+* **Artist Display Name:** W. Duke, Sons & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1814
+* **Title:** Plate 78 from "The Disasters of War" (Los Desastres de la Guerra): 'He defends himself well' (Se defiende bien)
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1815
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1746      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Spanish, Fuendetodos 1746–1828 Bordeaux
+* **Dimensions:** Plate: 6 3/4 × 8 11/16 in. (17.2 × 22 cm)
+Sheet: 9 15/16 × 13 9/16 in. (25.2 × 34.5 cm)
+* **Classification:** Prints
+* **Object Date:** 1814–15 (published 1863)
+* **Artist End Date:** 1828      
+* **Medium:** Etching, drypoint, burin, burnisher
+* **Artist Nationality:** Spanish
+* **Tags:** Dogs|Horses
+* **Artist Display Name:** Goya (Francisco de Goya y Lucientes)
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1716
+* **Title:** Pasha grasping a sword at his hip with both hands, from "Caravan of the Sultan to Mecca" (Caravane du Sultan à la Mecque)
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1809
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1716      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Montpellier 1716–1809 Paris
+* **Dimensions:** sheet: 14 11/16 x 10 7/16 in. (37.3 x 26.5 cm)
+plate: 8 x 5 1/4 in. (20.3 x 13.3 cm)
+* **Classification:** Prints
+* **Object Date:** 1748
+* **Artist End Date:** 1809      
+* **Medium:** Etching
+* **Artist Nationality:** French
+* **Tags:** Swords|Men|Portraits
+* **Artist Display Name:** Joseph Marie Vien
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1600
+* **Title:** Madonna and Child [?]
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1850
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1601      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Spanish, Granada 1601–1667 Granada
+* **Dimensions:** 3-7/16 x 2-13/16 in.  (8.7 x 7.1 cm)
+* **Classification:** Drawings
+* **Object Date:** n.d.
+* **Artist End Date:** 1667      
+* **Medium:** Pen and dark brown ink on tan paper. Paper cut in an oval shape
+* **Artist Nationality:** Spanish
+* **Tags:** Madonna and Child
+* **Artist Display Name:** Alonso Cano
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1555
+* **Title:** Susanna Accused of Adultery, from The Story of Susanna
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1555
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1502      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Paderborn ca. 1502–1555/1561 Soest
+* **Dimensions:** Sheet: 4 9/16 × 3 1/4 in. (11.6 × 8.3 cm)
+* **Classification:** Prints
+* **Object Date:** 1555
+* **Artist End Date:** 1561      
+* **Medium:** Engraving
+* **Artist Nationality:** German
+* **Tags:** Men|Women
+* **Artist Display Name:** Heinrich Aldegrever
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1652
+* **Title:** Torchlight Procession at the Modena Carrousel
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1652
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1610      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Florence 1610–1664 Florence
+* **Dimensions:** N/A
+* **Classification:** Prints
+* **Object Date:** 1652
+* **Artist End Date:** 1664      
+* **Medium:** Etching, state i
+* **Artist Nationality:** Italian
+* **Tags:** Horses|Human Figures
+* **Artist Display Name:** Stefano della Bella
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1755
+* **Title:** Studies of Eight Silver Pieces
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1810
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1746      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Paris 1746–1810 Paris
+* **Dimensions:** sheet: 12 x 18 1/4 in. (30.5 x 46.4 cm)
+* **Classification:** Drawings
+* **Object Date:** n.d.
+* **Artist End Date:** 1810      
+* **Medium:** Pen and black ink, brush and gray wash
+* **Artist Nationality:** French
+* **Tags:** N/A
+* **Artist Display Name:** Jean Guillaume Moitte
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1856
+* **Title:** Broadway, New York, West Side from Fulton Street to Courtland Street
+* **Artist Role:** Publisher|Lithographer
+* **Object Name:** Print
+* **Object End Date:** 1856
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1800      |1800      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York, NY|New York, NY
+* **Dimensions:** image: 16 1/4 x 37 5/16 in. (41.2 x 94.7 cm)
+sheet: 21 11/16 x 37 5/8 in. (55.1 x 95.5 cm)
+
+* **Classification:** Prints
+* **Object Date:** 1856
+* **Artist End Date:** 1900      |1900      
+* **Medium:** Lithograph with tint stone
+* **Artist Nationality:** American|American
+* **Tags:** New York City|Buildings|Cities|Street Scene|Carriages
+* **Artist Display Name:** W. Stephenson & Co.|Boell and Michelin
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1880
+* **Title:** Card Number 369, Marie Williams, from the Actors and Actresses series (N145-5) issued by Duke Sons & Co. to promote Cameo Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1889
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1870      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York and Durham, N.C.
+* **Dimensions:** Sheet: 2 11/16 × 1 3/8 in. (6.8 × 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1880s
+* **Artist End Date:** 1920      
+* **Medium:** Albumen photograph
+* **Artist Nationality:** American
+* **Tags:** Portraits|Women|Actresses
+* **Artist Display Name:** W. Duke, Sons & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1890
+* **Title:** Pug, from the Dogs of the World series for Old Judge Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1890
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1850      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** sheet: 1 1/2 x 2 13/16 in. (3.8 x 7.1 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1890
+* **Artist End Date:** 1950      
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:**  
+* **Tags:** Dogs
+* **Artist Display Name:** Goodwin & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1645
+* **Title:** Skull in profile to right
+* **Artist Role:** Artist|Etcher
+* **Object Name:** Print
+* **Object End Date:** 1645
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1452      |1607      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Vinci 1452–1519 Amboise|Bohemian, Prague 1607–1677 London
+* **Dimensions:** Plate: 3 1/16 × 3 5/8 in. (7.8 × 9.2 cm)
+with narrow margins all around
+* **Classification:** Prints
+* **Object Date:** 1645
+* **Artist End Date:** 1519      |1677      
+* **Medium:** Etching; only state
+* **Artist Nationality:** Italian|Bohemian
+* **Tags:** Skulls
+* **Artist Display Name:** Leonardo da Vinci|Wenceslaus Hollar
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1632
+* **Title:** Portrait of Louis XIII
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1635
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1590      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Paris 1590–1649 Paris
+* **Dimensions:** Sheet: 10 3/4 x 8 5/16 in. (27.3 x 21.1 cm)
+* **Classification:** Drawings
+* **Object Date:** ca. 1632–35
+* **Artist End Date:** 1649      
+* **Medium:** Black and white chalk with touches of pastel on light brown paper
+* **Artist Nationality:** French
+* **Tags:** Men|Portraits|Kings
+* **Artist Display Name:** Simon Vouet
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1796
+* **Title:** Allegories of Wisdom and Truth Leading the Infant Arts to America
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1796
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1747      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Irish, Dublin ca. 1747–1815 Philadelphia, Pennsylvania
+* **Dimensions:** sheet: 7 9/16 x 9 7/16 in. (19.2 x 24 cm)
+* **Classification:** Drawings
+* **Object Date:** after 1796
+* **Artist End Date:** 1815      
+* **Medium:** Pen and ink, brush and wash
+* **Artist Nationality:** Irish
+* **Tags:** Food|Birds|Spears|Women
+* **Artist Display Name:** John James Barralet
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1682
+* **Title:** Birth of the Dauphin, Toulouse, 1682: Capture of the Golden Fleece
+* **Artist Role:** Artist
+* **Object Name:** Print Ornament & Architecture
+* **Object End Date:** 1682
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1653      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, ca. 1653–ca. 1684
+* **Dimensions:** Sheet: 8 7/16 × 10 3/8 in. (21.5 × 26.3 cm)
+* **Classification:** Prints|Ornament & Architecture
+* **Object Date:** 1682
+* **Artist End Date:** 1684      
+* **Medium:** Etching and engraving
+* **Artist Nationality:** French
+* **Tags:** Birds|Ships|Human Figures
+* **Artist Display Name:** Jacques LePautre
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1490
+* **Title:** Christ on the Mount of Olives (reverse copy in roundel)
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1525
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1435      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Colmar ca. 1435/50–1491 Breisach
+* **Dimensions:** Sheet: 6 5/16 × 6 1/8 in. (16.1 × 15.6 cm)
+* **Classification:** Prints
+* **Object Date:** late 15th–16th century
+* **Artist End Date:** 1491      
+* **Medium:** Engraving
+* **Artist Nationality:** German
+* **Tags:** Praying|Angels|Christ|Suffering|Men
+* **Artist Display Name:** Martin Schongauer
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1819
+* **Title:** Banknote motif: the word FIVE against a rectangle of ornamental lathe work resembling wavy woven bands
+* **Artist Role:** Printer|Printer|Artist
+* **Object Name:** Print
+* **Object End Date:** 1847
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1824      |1800      |1787      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, active 1824–32|New York|American, 1787–1868
+* **Dimensions:** sheet: 1 1/16 x 3 1/8 in. (2.7 x 8 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1824–42
+* **Artist End Date:** 1832      |1850      |1868      
+* **Medium:** Engraving; proof
+* **Artist Nationality:** American|American|American
+* **Tags:** N/A
+* **Artist Display Name:** A. B. & C. Durand & Company|Durand, Perkins, and Company|Cyrus Durand
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1652
+* **Title:** Cupid and an eagle
+* **Artist Role:** Etcher|Artist
+* **Object Name:** Print
+* **Object End Date:** 1652
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1607      |1499      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Bohemian, Prague 1607–1677 London|Italian, Rome 1499?–1546 Mantua
+* **Dimensions:** Sheet: 4 3/8 × 5 13/16 in. (11.1 × 14.8 cm)
+* **Classification:** Prints
+* **Object Date:** 1652
+* **Artist End Date:** 1677      |1546      
+* **Medium:** Etching; first state of two
+* **Artist Nationality:** Bohemian|Italian
+* **Tags:** Eagles|Cupid|Bowls
+* **Artist Display Name:** Wenceslaus Hollar|Giulio Romano
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1888
+* **Title:** "Der's a stunt for yer," from the Terrors of America set (N136) issued by Duke Sons & Co. to promote Honest Long Cut Tobacco
+* **Artist Role:** Publisher|Lithographer
+* **Object Name:** Print
+* **Object End Date:** 1889
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1870      |          
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York and Durham, N.C.|American, New York
+* **Dimensions:** Sheet: 2 3/4 x 1 1/2 in. (7 x 3.8 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1888–89
+* **Artist End Date:** 1920      |          
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:** American|American
+* **Tags:** Boys
+* **Artist Display Name:** W. Duke, Sons & Co.|Knapp & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1886
+* **Title:** Lillian Grub, from the Actors and Actresses series (N171) for Gypsy Queen Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1890
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1850      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** sheet: 2 11/16 x 1 3/8 in. (6.9 x 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1886–90
+* **Artist End Date:** 1950      
+* **Medium:** Albumen photograph
+* **Artist Nationality:**  
+* **Tags:** Portraits|Women|Actresses
+* **Artist Display Name:** Goodwin & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1690
+* **Title:** A Reconstuction of the Pantheon (above) and a View of its Appearance Around 1700 (below)
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1704
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1670      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Dutch, Middelburg 1670–1731 Amsterdam
+* **Dimensions:** 13 1/16 x 8 5/16 in.  (33.2 x 21.1 cm)
+* **Classification:** Drawings
+* **Object Date:** before 1704
+* **Artist End Date:** 1731      
+* **Medium:** Red chalk, pen and black ink, brush and gray wash
+* **Artist Nationality:** Dutch
+* **Tags:** Buildings|Architecture
+* **Artist Display Name:** Jan Goeree
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1696
+* **Title:** Views of a Theater (Bayreuth): Interior Elevation of the Theater Showing Royal Box
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1756
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1696      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Parma 1696–1756 Berlin
+* **Dimensions:** 17-3/4 x 15 in.  (45.1 x 38.1 cm)
+* **Classification:** Drawings
+* **Object Date:** 1696–1756
+* **Artist End Date:** 1756      
+* **Medium:** Pen, gray ink, and gray and brown wash
+* **Artist Nationality:** Italian
+* **Tags:** Theatre|Architecture
+* **Artist Display Name:** Giuseppe Galli Bibiena
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1786
+* **Title:** Private Amusement
+* **Artist Role:** Artist|Publisher|Subject
+* **Object Name:** Print
+* **Object End Date:** 1786
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1757      |1761      |1751      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** British, London 1757–1827 London|London|British, York 1751–1820 Doncaster
+* **Dimensions:** Sheet: 9 11/16 × 11 3/4 in. (24.6 × 29.8 cm)
+Plate: 8 3/8 × 9 3/4 in. (21.3 × 24.7 cm)
+* **Classification:** Prints
+* **Object Date:** January 1, 1786
+* **Artist End Date:** 1827      |1999      |1820      
+* **Medium:** Etching
+* **Artist Nationality:** British|British|British
+* **Tags:** Men|Entertainment
+* **Artist Display Name:** Thomas Rowlandson|S. W. Fores|Edward Topham
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1530
+* **Title:** Opera Nova Universali intitulata Corona di racammi, page 22 (verso)
+* **Artist Role:** Publisher
+* **Object Name:** Books Prints Ornament & Architecture
+* **Object End Date:** 1530
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1530      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, active Venice 1530–1573
+* **Dimensions:** Overall: 8 7/8 x 6 7/8 in. (22.5 x 17.5 cm)
+* **Classification:** Books|Prints|Ornament & Architecture
+* **Object Date:** [1530]
+* **Artist End Date:** 1573      
+* **Medium:** Woodcut
+* **Artist Nationality:** Italian
+* **Tags:** Men|Women
+* **Artist Display Name:** Giovanni Andrea Vavassore
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1601
+* **Title:** Corona delle Nobili et Virtuose Donne: Libro I-IV, page 96 (recto)
+* **Artist Role:** Publisher
+* **Object Name:** Books Prints Ornament & Architecture
+* **Object End Date:** 1601
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1521      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Pieve di Cadore 1521–1601 Venice
+* **Dimensions:** Overall: 5 1/2 x 7 11/16 in. (14 x 19.5 cm)
+* **Classification:** Books|Prints|Ornament & Architecture
+* **Object Date:** 1601
+* **Artist End Date:** 1601      
+* **Medium:** Woodcut
+* **Artist Nationality:** Italian
+* **Tags:** Ornament
+* **Artist Display Name:** Cesare Vecellio
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1606
+* **Title:** Figures Watching a Display of Fireworks at Castel Sant'Angelo, Rome (recto); A Distant View of the Fireworks Seen from a Villa Garden (verso)
+* **Artist Role:** Artist
+* **Object Name:** Drwaing
+* **Object End Date:** 1680
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1606      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Bologna 1606–1680 Rome
+* **Dimensions:** 10 1/8 x 14 5/8in. (25.7 x 37.1cm)
+* **Classification:** Drawings
+* **Object Date:** 1606–80
+* **Artist End Date:** 1680      
+* **Medium:** Pen and brown ink (recto); pen and brown ink over leadpoint or graphite (verso)
+* **Artist Nationality:** Italian
+* **Tags:** Rome|Castles|Bridges|Fireworks|Human Figures
+* **Artist Display Name:** Giovanni Francesco Grimaldi
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1724
+* **Title:** The Pentecost, with the Virgin standing at center, the Holy Spirit above, and Apostles on both sides
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1734
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1656      |1692      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Roman, 1656–1704|French, Paris 1692–1765 Paris
+* **Dimensions:** Sheet (Trimmed): 15 9/16 × 9 7/8 in. (39.6 × 25.1 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1729
+* **Artist End Date:** 1704      |1765      
+* **Medium:** Etching and aquatint in green
+* **Artist Nationality:** Italian|French
+* **Tags:** N/A
+* **Artist Display Name:** Giovanni Battista Lenardi|Anne Claude Philippe de Tubières, comte de Caylus
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1609
+* **Title:** A Family Saying Grace
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1609
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1586      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Dutch, Amsterdam 1586–1652 Amsterdam
+* **Dimensions:** Plate: 15 1/2 × 20 in. (39.3 × 50.8 cm)
+Sheet: 16 1/2 × 20 9/16 in. (41.9 × 52.3 cm)
+* **Classification:** Prints
+* **Object Date:** 1609
+* **Artist End Date:** 1652      
+* **Medium:** Etching, second state of two
+* **Artist Nationality:** Dutch
+* **Tags:** Doorways|Interiors|Family
+* **Artist Display Name:** Claes Jansz. Visscher
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1888
+* **Title:** Big Bear, Missouria, from the American Indian Chiefs series (N2) for Allen & Ginter Cigarettes Brands
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1888
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, Richmond, Virginia
+* **Dimensions:** Sheet: 2 3/4 x 1 1/2 in. (7 x 3.8 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1888
+* **Artist End Date:**           
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:** American
+* **Tags:** Men|Portraits
+* **Artist Display Name:** Allen & Ginter
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1636
+* **Title:** S. Gangulphe, martyr (St. Gangulphus, Martyr), May 11th, from "Les Images De Tous Les Saincts et Saintes de L'Année" (Images of All of the Saints and Religious Events of the Year)
+* **Artist Role:** Artist|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1636
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1592      |1590      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Nancy 1592–1635 Nancy|French, Nancy ca. 1590–1661 Paris
+* **Dimensions:** Sheet: 2 1/2 x 1 15/16 in. (6.4 x 5 cm)
+* **Classification:** Prints
+* **Object Date:** 1636
+* **Artist End Date:** 1635      |1661      
+* **Medium:** Etching; second state of two (Lieure)
+* **Artist Nationality:** French|French
+* **Tags:** Men|Saints
+* **Artist Display Name:** Jacques Callot|Israël Henriet
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1850
+* **Title:** Design for Phaeton, no. 543
+* **Artist Role:** Manufacturer
+* **Object Name:** Drawing
+* **Object End Date:** 1874
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, New York
+* **Dimensions:** 6 5/8 x 9 1/4 in. (16.8 x 23.5 cm)
+* **Classification:** Drawings
+* **Object Date:** 1850–74
+* **Artist End Date:**           
+* **Medium:** Pen and black ink, watercolor and gouache
+* **Artist Nationality:** American
+* **Tags:** Carriages
+* **Artist Display Name:** Brewster & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1653
+* **Title:** River Scene with Cows
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1653
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1596      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Dutch, Leiden 1596–1656 The Hague
+* **Dimensions:** 4 1/2 x 7 11/16 in.  (11.4 x 19.5 cm)
+* **Classification:** Drawings
+* **Object Date:** 1653
+* **Artist End Date:** 1656      
+* **Medium:** Black chalk and gray wash
+* **Artist Nationality:** Dutch
+* **Tags:** Cows|Rivers|Boats|Human Figures
+* **Artist Display Name:** Jan van Goyen
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1732
+* **Title:** Saint Ignatius of Loyola Preaching
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1761
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1712      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Kufstein 1712–1761 Augsburg
+* **Dimensions:** sheet: 11 1/8 x 13 7/16 in. (28.3 x 34.2 cm)
+* **Classification:** Drawings
+* **Object Date:** before 1761
+* **Artist End Date:** 1761      
+* **Medium:** Pen and black ink, brush and gray ink, heightened with white bodycolour, over graphite; on blue paper; incised for transfer
+* **Artist Nationality:** German
+* **Tags:** Books|Children|Men|Women|Saints
+* **Artist Display Name:** Johann Wolfgang Baumgartner
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1620
+* **Title:** Saint Barbara holding palm leaves with a sword and flowers at her feet, two putti overhead holding a laurel
+* **Artist Role:** Artist and publisher|Artist
+* **Object Name:** Print
+* **Object End Date:** 1659
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1581      |1577      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Dutch, Bolsward 1581–1659 Antwerp|Flemish, Siegen 1577–1640 Antwerp
+* **Dimensions:** Sheet (Trimmed): 13 7/16 × 9 1/2 in. (34.2 × 24.1 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1625–59
+* **Artist End Date:** 1659      |1640      
+* **Medium:** Etching and engraving; first state of two
+* **Artist Nationality:** Dutch|Flemish
+* **Tags:** Angels|Saints
+* **Artist Display Name:** Schelte Adams à Bolswert|Peter Paul Rubens
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1876
+* **Title:** Design for T-Cart, no. 3183
+* **Artist Role:** Manufacturer
+* **Object Name:** Drawing
+* **Object End Date:** 1876
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, New York
+* **Dimensions:** Sheet: 6 5/8 × 9 3/4 in. (16.8 × 24.8 cm)
+* **Classification:** Drawings
+* **Object Date:** 1876
+* **Artist End Date:**           
+* **Medium:** Pen and black ink watercolor and gouache with gum arabic
+* **Artist Nationality:** American
+* **Tags:** Carriages
+* **Artist Display Name:** Brewster & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1642
+* **Title:** Frontispiece: Horace, Quinti Horatii Flacci Opera
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1642
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1598      |1594      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Abbeville 1598–1688 Paris|French, Les Andelys 1594–1665 Rome
+* **Dimensions:** sheet: 13 7/8 x 9 in. (35.2 x 22.9 cm)
+* **Classification:** Prints
+* **Object Date:** 1642
+* **Artist End Date:** 1688      |1665      
+* **Medium:** Engraving; first state of two
+* **Artist Nationality:** French|French
+* **Tags:** Masks|Men|Women|Leaves|Angels
+* **Artist Display Name:** Claude Mellan|Nicolas Poussin
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1591
+* **Title:** Fiori di Ricami Nuovamente Posti in Luce, page 3 (recto)
+* **Artist Role:** Designer|Publisher
+* **Object Name:** Books Prints Ornament & Archiecture
+* **Object End Date:** 1591
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1581      |1500      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, active Siena, ca. 1581–died 1613|Italian, active 16th century
+* **Dimensions:** Overall: 5 1/2 x 7 7/8 in. (14 x 20 cm)
+* **Classification:** Books|Prints|Ornament & Architecture
+* **Object Date:** 1591
+* **Artist End Date:** 1613      |1600      
+* **Medium:** Woodcut
+* **Artist Nationality:** Italian|Italian
+* **Tags:** Ornament
+* **Artist Display Name:** Matteo Florimi|Francesco de' Franceschi
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1876
+* **Title:** White Chapel Cart # 3202
+* **Artist Role:** Manufacturer
+* **Object Name:** Drawing
+* **Object End Date:** 1876
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, New York
+* **Dimensions:** sheet: 6 1/8 x 8 15/16 in. (15.6 x 22.7 cm)
+* **Classification:** Drawings
+* **Object Date:** 1876
+* **Artist End Date:**           
+* **Medium:** Pen and black ink, watercolor and gouache with gum arabic
+* **Artist Nationality:** American
+* **Tags:** Carriages
+* **Artist Display Name:** Brewster & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1850
+* **Title:** The Satyr
+* **Artist Role:** Artist|Printer
+* **Object Name:** Print
+* **Object End Date:** 1850
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1817      |0019      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Paris 1817–1878 Paris|French, active 19th century
+* **Dimensions:** Plate: 7 1/16 × 5 5/8 in. (18 × 14.3 cm)
+* **Classification:** Prints
+* **Object Date:** 1850
+* **Artist End Date:** 1878      |0019      
+* **Medium:** Etching; second state of three (Delteil)
+* **Artist Nationality:** French|French
+* **Tags:** Satyrs|Trees
+* **Artist Display Name:** Charles-François Daubigny|A. Beillet
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1773
+* **Title:** Edward the Martyr
+* **Artist Role:** Subject|Artist|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1773
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 0957      |1705      |1720      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** British, ca. 962–978 Corfe Castle, Dorset|Italian, 1705–1784|British, Dorrington, Shropshire 1720–1804 London
+* **Dimensions:** Sheet: 18 x 12 15/16 in. (45.7 x 32.9 cm)
+* **Classification:** Prints
+* **Object Date:** 1773
+* **Artist End Date:** 0978      |1784      |1804      
+* **Medium:** Etching
+* **Artist Nationality:** British|Italian|British
+* **Tags:** N/A
+* **Artist Display Name:** Edward the Martyr, King of England|Andrea Casali|John Boydell
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1888
+* **Title:** Private, Hawkins Zouaves, 9th Regiment, New York Vet., from the Military Series (N224) issued by Kinney Tobacco Company to promote Sweet Caporal Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1888
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1869      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** Sheet: 2 3/4 × 1 1/2 in. (7 × 3.8 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1888
+* **Artist End Date:** 2011      
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:** American
+* **Tags:** Firearms|Profiles
+* **Artist Display Name:** Kinney Brothers Tobacco Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1770
+* **Title:** White Hollyhocks
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1843
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1754      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Lyon 1754–1843 Lyon
+* **Dimensions:** 11 1/4 x 9in. (28.5 x 22.9cm)
+* **Classification:** Drawings
+* **Object Date:** n.d.
+* **Artist End Date:** 1843      
+* **Medium:** Black, white, yellow and orange chalk
+
+* **Artist Nationality:** French
+* **Tags:** Flowers
+* **Artist Display Name:** Antoine Berjon
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1507
+* **Title:** Pilate Washing his Hands, from Speculum passionis domini nostri Ihesu Christi
+* **Artist Role:** Artist|Author|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1507
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1480      |1493      |          
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Nuremberg ca. 1480–ca. 1540 Nördlingen|German, active 1493–before 1519|Geman
+* **Dimensions:** Sheet: 9 3/8 × 6 3/8 in. (23.8 × 16.2 cm)
+* **Classification:** Prints
+* **Object Date:** 1507
+* **Artist End Date:** 1540      |1519      |          
+* **Medium:** Woodcut
+* **Artist Nationality:** German|German|German
+* **Tags:** Men|Washing|Pilate|Christ
+* **Artist Display Name:** Hans Schäufelein|Ulrich Pinder|Friedrich Peypus
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1600
+* **Title:** Design for an Altar: Virgin and Child Flanked by Saints, Two Angels in the Left and Right Foreground
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1800
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1600      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** 8-1/2 x 6-1/8 in.  (21.6 x 15.5 cm)
+* **Classification:** Drawings
+* **Object Date:** 1600–1800
+* **Artist End Date:** 1799      
+* **Medium:** Pen and brown ink, brush and brown wash, over lead or graphite, on cream laid paper. Framing lines in brown ink
+* **Artist Nationality:** Italian
+* **Tags:** Angels|Madonna and Child|Saints
+* **Artist Display Name:** Anonymous, Italian, 17th or 18th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1700
+* **Title:** Allegories of America, Asia, and Europe
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1799
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1700      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** 7 3/8 x 6 3/16 in.  (18.7 x 15.7 cm)
+* **Classification:** Drawings
+* **Object Date:** 18th century
+* **Artist End Date:** 1800      
+* **Medium:** Brush and brown wash on paper
+* **Artist Nationality:** French
+* **Tags:** Animals|Children
+* **Artist Display Name:** Anonymous, French, 18th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1886
+* **Title:** Four in Hand, from the Sports and Art Subjects series (N197) issued by Wm. S. Kimball & Co.
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1893
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** Sheet: 3 in. × 3 3/8 in. (7.6 × 8.5 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** ca. 1889
+* **Artist End Date:**           
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:**  
+* **Tags:** Horses|Spectators
+* **Artist Display Name:** William S. Kimball & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1774
+* **Title:** Mrs. Robinson as Perdita
+* **Artist Role:** Artist|Sitter|Subject
+* **Object Name:** Drawing
+* **Object End Date:** 1784
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1742      |1758      |1564      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** British, Oakford, Devon 1742–1821 London|British, 1758–1800|British, Stratford-upon-Avon 1564–1616 Stratford-upon-Avon
+* **Dimensions:** oval sheet: 7 13/16 x 6 in. (19.9 x 15.3 cm)
+* **Classification:** Drawings
+* **Object Date:** ca. 1779
+* **Artist End Date:** 1821      |1800      |1616      
+* **Medium:** Graphite, blue chalk, and watercolor, with touches of  gouache (bodycolor)
+* **Artist Nationality:** British|British|British
+* **Tags:** Women|Dogs|Actresses|Shakespeare
+* **Artist Display Name:** Richard Cosway|Mary "Perdita" Robinson|William Shakespeare
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1765
+* **Title:** Eighth View of Italy
+* **Artist Role:** Engraver|Publisher|Artist
+* **Object Name:** Print
+* **Object End Date:** 1775
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1743      |1707      |1714      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Lille 1743–?1806/9 Paris|French, Paris 1707–1783 Paris|French, Avignon 1714–1789 Paris
+* **Dimensions:** Sheet (Trimmed): 13 7/16 × 17 3/16 in. (34.2 × 43.7 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1770
+* **Artist End Date:** 1809      |1783      |1789      
+* **Medium:** Engraving
+* **Artist Nationality:** French|French|French
+* **Tags:** N/A
+* **Artist Display Name:** Isidore Stanislas Henri Helman|Jacques Philippe Le Bas|Joseph Vernet
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1700
+* **Title:** Trade Card for D. Rymer, Book & Print Seller
+* **Artist Role:** Artist
+* **Object Name:** Print, Trade Card
+* **Object End Date:** 1800
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1700      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** Sheet: 2 15/16 × 3 7/8 in. (7.4 × 9.8 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 18th century
+* **Artist End Date:** 1800      
+* **Medium:** Engraving
+* **Artist Nationality:** British
+* **Tags:** N/A
+* **Artist Display Name:** Anonymous, British, 18th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1880
+* **Title:** Card Number 15, Miss Southerland, from the Actors and Actresses series (N145-6) issued by Duke Sons & Co. to promote Duke Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1889
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1870      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York and Durham, N.C.
+* **Dimensions:** Sheet: 2 11/16 × 1 3/8 in. (6.8 × 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1880s
+* **Artist End Date:** 1920      
+* **Medium:** Albumen photograph
+* **Artist Nationality:** American
+* **Tags:** Women|Actresses
+* **Artist Display Name:** W. Duke, Sons & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1595
+* **Title:** The Virgin holding the infant Christ, a circular composition, after Reni
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1645
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1575      |1600      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Bologna 1575–1642 Bologna| 
+* **Dimensions:** Sheet (Trimmed): 7 3/8 × 6 5/8 in. (18.8 × 16.9 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1600–40
+* **Artist End Date:** 1642      |1700      
+* **Medium:** Etching
+* **Artist Nationality:** Italian| 
+* **Tags:** Madonna and Child
+* **Artist Display Name:** Guido Reni|Anonymous, 17th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1570
+* **Title:** Summer (Estate), represented as a robed woman bearing a horn of plenty, a spandrel-shaped composition from the series 'The Four Seasons'
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1615
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1553      |1529      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Borgo Sansepolcro 1553–1615 Rome|Italian, Sant'Angelo in Vado 1529–1566 Rome
+* **Dimensions:** sheet: 9 3/4 x 6 5/16 in. (24.7 x 16 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1570–1615
+* **Artist End Date:** 1615      |1566      
+* **Medium:** Engraving
+* **Artist Nationality:** Italian|Italian
+* **Tags:** Women
+* **Artist Display Name:** Cherubino Alberti (Zaccaria Mattia)|Taddeo Zuccaro
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1800
+* **Title:** Design for a Firescreen (?)
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1899
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1800      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** sheet: 7 9/16 x 12 3/8 in. (19.2 x 31.4 cm)
+* **Classification:** Drawings
+* **Object Date:** 19th century
+* **Artist End Date:** 1900      
+* **Medium:** Watercolor
+* **Artist Nationality:** French
+* **Tags:** Screens
+* **Artist Display Name:** Anonymous, French, 19th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1889
+* **Title:** Albert C. "Al" Buckenberger, Manager, Cleveland, from the Old Judge series (N172) for Old Judge Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Baseball card, photograph
+* **Object End Date:** 1889
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1850      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** sheet: 2 11/16 x 1 3/8 in. (6.9 x 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1889
+* **Artist End Date:** 1950      
+* **Medium:** Albumen photograph
+* **Artist Nationality:**  
+* **Tags:** Men|Portraits|Baseball|Athletes
+* **Artist Display Name:** Goodwin & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1500
+* **Title:** Frieze with a Horned Male Figure at Center with Two Tendrils Held at Either End by Winged Female Figures
+* **Artist Role:** Artist
+* **Object Name:** print ornament & architecture
+* **Object End Date:** 1550
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1500      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Nuremberg 1500–1550 Frankfurt
+* **Dimensions:** Sheet: 5/8 x 5 1/4 in. (1.6 x 13.3 cm)
+* **Classification:** Prints
+* **Object Date:** 1500–1550
+* **Artist End Date:** 1550      
+* **Medium:** Engraving
+* **Artist Nationality:** German
+* **Tags:** Ornament
+* **Artist Display Name:** Sebald Beham
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1886
+* **Title:** Lydia Yeamana, from the Actors and Actresses series (N171) for Old Judge Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1890
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1850      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** sheet: 2 11/16 x 1 3/8 in. (6.9 x 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1886–90
+* **Artist End Date:** 1950      
+* **Medium:** Albumen photograph
+* **Artist Nationality:**  
+* **Tags:** Portraits|Women|Actresses
+* **Artist Display Name:** Goodwin & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1600
+* **Title:** Christ and the Children
+* **Artist Role:** Artist
+* **Object Name:** Drawing
+* **Object End Date:** 1700
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1600      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** 7-13/16 x 10-13/16 in.  (19.9 x 27.5 cm)
+* **Classification:** Drawings
+* **Object Date:** 17th century
+* **Artist End Date:** 1700      
+* **Medium:** Black chalk, highlighted with white gouache on brown paper
+* **Artist Nationality:** Italian
+* **Tags:** Christ|Children|Men|Women
+* **Artist Display Name:** Anonymous, Italian, Roman-Bolognese, 17th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1524
+* **Title:** Ein new Modelbuch..., page 13 (verso)
+* **Artist Role:** Publisher
+* **Object Name:** Books Prints Ornament & Architecture
+* **Object End Date:** 1524
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1490      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, active 1510–30
+* **Dimensions:** 7 5/16 x 5 3/8 in. (18.5 x 13.6 cm)
+* **Classification:** Books|Prints|Ornament & Architecture
+* **Object Date:** October 22, 1524
+* **Artist End Date:** 1550      
+* **Medium:** Woodcut
+* **Artist Nationality:** German
+* **Tags:** Acanthus
+* **Artist Display Name:** Johann Schönsperger the Younger
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1700
+* **Title:** The highly ornamented first gondola of Francesco Antonio Berka entering Venice, Gods on clouds in the sky
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1700
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           |1700      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German|Italian, active 1700
+* **Dimensions:** Sheet: 15 3/8 × 27 3/16 in. (39 × 69 cm)
+* **Classification:** Prints
+* **Object Date:** 1700
+* **Artist End Date:**           |          
+* **Medium:** Hand coloured engraving  and etching
+* **Artist Nationality:** German|Italian
+* **Tags:** Coat of Arms|Boats|Birds|Putti
+* **Artist Display Name:** Johann Georg Wolfgang|Liberal Benaglia
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1800
+* **Title:** Symptoms of Sanctity
+* **Artist Role:** Artist|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1800
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1757      |1761      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** British, London 1757–1827 London|London
+* **Dimensions:** Sheet (trimmed): 12 5/16 × 10 1/2 in. (31.3 × 26.6 cm)
+* **Classification:** Prints
+* **Object Date:** February 28, 1800
+* **Artist End Date:** 1827      |1999      
+* **Medium:** Etching
+* **Artist Nationality:** British|British
+* **Tags:** Men|Women
+* **Artist Display Name:** Thomas Rowlandson|S. W. Fores
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1755
+* **Title:** Chinoiserie with a woman playing a gong, from Suite de Figures Chinoises. . .Tiré du Cabinet de Mr. d'Azaincourt (Series of Chinoiserie Figures. . .From the Chambers of Mr. d'Azaincourt), plate 6
+* **Artist Role:** Publisher|Artist|Artist
+* **Object Name:** Print; Ornament & Architecture
+* **Object End Date:** 1776
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1722      |1703      |1735      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Liège 1722–1776 Paris|French, Paris 1703–1770 Paris|French, Rouen 1735–1813 Paris
+* **Dimensions:** Plate: 8 7/8 × 6 7/8 in. (22.5 × 17.4 cm)
+Sheet: 13 11/16 × 10 1/4 in. (34.8 × 26 cm)
+* **Classification:** Prints|Ornament & Architecture
+* **Object Date:** 1755–76
+* **Artist End Date:** 1776      |1770      |1813      
+* **Medium:** Etching and engraving
+* **Artist Nationality:** French|French|French
+* **Tags:** Musical Instruments|Women|Chinoiserie
+* **Artist Display Name:** Gilles Demarteau|François Boucher|Jean Pierre Louis Laurent Hoüel
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1491
+* **Title:** The Turkish Family
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1501
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1471      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Nuremberg 1471–1528 Nuremberg
+* **Dimensions:** sheet: 4 x 2 7/8 in. (10.2 x 7.3 cm). Trimmed to platemark.
+* **Classification:** Prints
+* **Object Date:** ca. 1496
+* **Artist End Date:** 1528      
+* **Medium:** Engraving
+* **Artist Nationality:** German
+* **Tags:** Bow and Arrow|Infants|Men|Women|Family
+* **Artist Display Name:** Albrecht Dürer
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1571
+* **Title:** Le Imagini de i Dei de gli Antichi
+* **Artist Role:** Author|Etcher|Publisher|Designer
+* **Object Name:** Book
+* **Object End Date:** 1571
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1500      |1555      |          |1515      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, born ca. 1500|Italian, active Venice, 1555–76| |Italian, Castelnuovo di Garfagnana ca. 1520–ca. 1575 Venice
+* **Dimensions:** Overall: 8 11/16 x 6 5/16 in. (22 x 16 cm)
+* **Classification:** Books
+* **Object Date:** 1571
+* **Artist End Date:** 1500      |1576      |          |1580      
+* **Medium:** Etchings
+* **Artist Nationality:** Italian|Italian|Italian|Italian
+* **Tags:** Female Nudes|Putti|Seahorses
+* **Artist Display Name:** Vincenzo Cartari|Bolognino Zaltieri|Vincenzo Valgrisi|Giuseppe Salviati (Giuseppe Porta, called Il Salviati)
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1869
+* **Title:** Poor old chap!, from 'News of the day,' published in Le Charivari, January 26, 1869
+* **Artist Role:** Publisher|Printer|Artist
+* **Object Name:** Print
+* **Object End Date:** 1869
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1856      |1800      |1808      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  |Paris|French, Marseilles 1808–1879 Valmondois
+* **Dimensions:** Image: 9 7/16 × 8 1/8 in. (24 × 20.6 cm)
+Sheet: 11 1/2 × 9 3/16 in. (29.2 × 23.3 cm)
+* **Classification:** Prints
+* **Object Date:** January 26, 1869
+* **Artist End Date:** 1870      |1900      |1879      
+* **Medium:** Lithograph on newsprint; third state of three (Delteil)
+* **Artist Nationality:** French|French|French
+* **Tags:** Men|Women
+* **Artist Display Name:** Arnaud de Vresse|Destouches|Honoré Daumier
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1686
+* **Title:** Design for a monument; verso: Architectural sketches
+* **Artist Role:** Artist|Former Attribution|Former Attribution
+* **Object Name:** Drawing
+* **Object End Date:** 1724
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1648      |1600      |1667      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Flemish, Antwerp 1648–1691 Antwerp| |Flemish, 1667–1737
+* **Dimensions:** sheet: 6 7/16 x 6 7/16 in. (16.4 x 16.3 cm)
+* **Classification:** Drawings
+* **Object Date:** late 17th–early 18th century
+* **Artist End Date:** 1691      |1700      |1737      
+* **Medium:** Pen and brown ink, brown wash, over black chalk or graphite; verso: black chalk or graphite, locally strengthened with pen and brown ink
+* **Artist Nationality:** Flemish|Flemish|Flemish
+* **Tags:** Animals|Birds
+* **Artist Display Name:** Pieter Verbruggen the Younger|Anonymous, Flemish, 17th century|Michiel van der Voort
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1887
+* **Title:** Puzzle Card Number 13, The Domino Trick Puzzle, from the Jokes series (N118) issued by Duke Sons & Co. to promote Honest Long Cut Tobacco
+* **Artist Role:** Publisher|Lithographer
+* **Object Name:** Print
+* **Object End Date:** 1891
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1870      |1800      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York and Durham, N.C.|Boston, Massachusetts
+* **Dimensions:** Sheet: 4 1/4 × 2 1/2 in. (10.8 × 6.3 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** ca. 1890
+* **Artist End Date:** 1920      |1900      
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:** American|American
+* **Tags:** Games
+* **Artist Display Name:** W. Duke, Sons & Co.|Armstrong & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1875
+* **Title:** A woman holding a pan and ladle with other women and cooking supplies in the background
+* **Artist Role:** Artist|Printer
+* **Object Name:** Print
+* **Object End Date:** 1885
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1851      |1895      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Mexican, 1851–1913|Mexican, active ca. 1900–1910
+* **Dimensions:** Sheet: 7 1/16 × 5 1/8 in. (18 × 13 cm)
+Image: 6 3/16 × 4 1/8 in. (15.7 × 10.5 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1880–1910
+* **Artist End Date:** 1913      |1910      
+* **Medium:** Zincograph
+* **Artist Nationality:** Mexican|Mexican
+* **Tags:** Women
+* **Artist Display Name:** José Guadalupe Posada|José Sanchez
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1885
+* **Title:** From the Actors and Actresses series (N45, Type 4) for Virginia Brights Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1891
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, Richmond, Virginia
+* **Dimensions:** Sheet: 2 3/4 x 1 3/8 in. (7 x 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** ca. 1888
+* **Artist End Date:**           
+* **Medium:** Albumen photograph
+* **Artist Nationality:** American
+* **Tags:** Portraits|Women|Actresses
+* **Artist Display Name:** Allen & Ginter
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1618
+* **Title:** La Condamnation a Mort (The Condemnation to Death), from La Grande Passion (The Large Passion)
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1630
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1592      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Nancy 1592–1635 Nancy
+* **Dimensions:** Sheet: 4 1/2 x 8 5/8 in. (11.4 x 21.9 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1619–24
+* **Artist End Date:** 1635      
+* **Medium:** Etching and engraving; first state of two (Lieure)
+* **Artist Nationality:** French
+* **Tags:** N/A
+* **Artist Display Name:** Jacques Callot
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1885
+* **Title:** Card 692, Marie Wilcox, from the Actors and Actresses series (N45, Type 2) for Virginia Brights Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Photograph
+* **Object End Date:** 1891
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, Richmond, Virginia
+* **Dimensions:** Sheet: 2 3/4 x 1 3/8 in. (7 x 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** ca. 1888
+* **Artist End Date:**           
+* **Medium:** Albumen photograph
+* **Artist Nationality:** American
+* **Tags:** Portraits|Women|Actresses
+* **Artist Display Name:** Allen & Ginter
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1888
+* **Title:** Marie Borroughs, from World's Beauties, Series 1 (N26) for Allen & Ginter Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1888
+* **Department:** Drawings and Prints
+* **Artist Begin Date:**           
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American, Richmond, Virginia
+* **Dimensions:** Sheet: 2 3/4 x 1 1/2 in. (7 x 3.8 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1888
+* **Artist End Date:**           
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:** American
+* **Tags:** Women
+* **Artist Display Name:** Allen & Ginter
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1625
+* **Title:** St. Genevieve
+* **Artist Role:** Artist|Dedicatee|Artist|Publisher
+* **Object Name:** Print
+* **Object End Date:** 1716
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1606      |1558      |1614      |1634      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** French, Paris 1606–1656 Paris|1558–1645|French, Paris 1614–1686 Paris|French, Paris 1634–1716 Paris
+* **Dimensions:** sheet: 14 15/16 x 9 3/8 in. (38 x 23.8 cm)
+* **Classification:** Prints
+* **Object Date:** n.d.
+* **Artist End Date:** 1656      |1645      |1686      |1716      
+* **Medium:** Engraving
+* **Artist Nationality:** French|French|French|French
+* **Tags:** Women|Saints
+* **Artist Display Name:** Laurent de La Hyre|François de La Rochefoucauld|Gilles Rousselet|Pierre Mariette le fils
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1888
+* **Title:** McGunnigle, Manager, Brooklyn Bridegrooms, from the Old Judge series (N172) for Old Judge Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Baseball card, photograph
+* **Object End Date:** 1888
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1850      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** sheet: 2 11/16 x 1 3/8 in. (6.9 x 3.5 cm)
+* **Classification:** Photographs|Ephemera
+* **Object Date:** 1888
+* **Artist End Date:** 1950      
+* **Medium:** Albumen photograph
+* **Artist Nationality:**  
+* **Tags:** Men|Portraits
+* **Artist Display Name:** Goodwin & Company
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1780
+* **Title:** Banditti Taking His Post
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1800
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1740      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** British, Eastbourne 1740–1779 London
+* **Dimensions:** Sheet: 7 3/16 x 4 5/8 in. (18.2 x 11.8 cm)
+* **Classification:** Prints
+* **Object Date:** late 18th century
+* **Artist End Date:** 1779      
+* **Medium:** Etching
+* **Artist Nationality:** British
+* **Tags:** Spears|Men
+* **Artist Display Name:** John Hamilton Mortimer
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1777
+* **Title:** West Wickham Court in the County of Kent, from Edward Hasted's, The History and Topographical Survey of the County of Kent, vols. 1-3
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1790
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1700      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:**  
+* **Dimensions:** Book: 17 5/16 × 11 × 13/16 in. (44 × 28 × 2 cm)
+Sheet: 16 15/16 × 10 5/8 in. (43 × 27 cm)
+Plate: 10 1/16 × 14 in. (25.5 × 35.5 cm)
+* **Classification:** Books
+* **Object Date:** 1777–90
+* **Artist End Date:** 1800      
+* **Medium:** Etching and engraving
+* **Artist Nationality:** British
+* **Tags:** Buildings|Coat of Arms
+* **Artist Display Name:** Anonymous, British, 18th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1852
+* **Title:** Wm. L. McDonald, Manufacturers of Carriage Harness & Co. Repository, No. 26 Beekman & 18 Spruce Street, New York
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1886
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1852      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** New York, NY
+* **Dimensions:** sheet: 17 3/4 x 13 3/16 in. (45.1 x 33.5 cm)
+* **Classification:** Prints
+* **Object Date:** 1852–86
+* **Artist End Date:** 1886      
+* **Medium:** Lithograph
+* **Artist Nationality:** American
+* **Tags:** N/A
+* **Artist Display Name:** Endicott & Co.
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1472
+* **Title:** James The Less from the Martyrdom of the Twelve Apostles
+* **Artist Role:** Artist
+* **Object Name:** Print
+* **Object End Date:** 1553
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1472      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** German, Kronach 1472–1553 Weimar
+* **Dimensions:** Sheet: 6 5/16 × 4 15/16 in. (16 × 12.6 cm)
+* **Classification:** Prints
+* **Object Date:** N/A
+* **Artist End Date:** 1553      
+* **Medium:** Woodcut
+* **Artist Nationality:** German
+* **Tags:** Suffering|Men|Apostles
+* **Artist Display Name:** Lucas Cranach the Elder
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1881
+* **Title:** Hindoostan, from the Races of Mankind series (T181) issued by Abdul Cigarettes
+* **Artist Role:** Publisher
+* **Object Name:** Print
+* **Object End Date:** 1881
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1881      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** American
+* **Dimensions:** Sheet: 2 3/8 × 1 3/8 in. (6 × 3.5 cm)
+* **Classification:** Prints|Ephemera
+* **Object Date:** 1881
+* **Artist End Date:** 1881      
+* **Medium:** Commercial color lithograph
+* **Artist Nationality:** American
+* **Tags:** Men|Profiles
+* **Artist Display Name:** Abdul Cigarettes
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
+
+You are a helpful tour guide in an art gallery. 
+Please provide an explanation and insights for the following artwork to the visitor, using the details provided:
+
+**Artwork Details:**
+* **Object Begin Date:** 1540
+* **Title:** Contest between Apollo and Marsyas
+* **Artist Role:** Artist|Artist
+* **Object Name:** Print
+* **Object End Date:** 1560
+* **Department:** Drawings and Prints
+* **Artist Begin Date:** 1499      |1500      
+* **Repository:** Metropolitan Museum of Art, New York, NY
+* **Artist Display Bio:** Italian, Rome 1499?–1546 Mantua| 
+* **Dimensions:** sheet diameter: 12 13/16 in. (32.5 cm)
+* **Classification:** Prints
+* **Object Date:** ca. 1543
+* **Artist End Date:** 1546      |1600      
+* **Medium:** Etching
+* **Artist Nationality:** Italian|French
+* **Tags:** Musical Instruments|Men|Apollo|Dogs|Bow and Arrow|Music|Trees
+* **Artist Display Name:** Giulio Romano|Anonymous, French, School of Fontainebleau, 16th century
+
+**Instructions:**
+Based on these details, please generate a concise explanation. Focus on:
+1.  The artist's background and context (using bio, nationality, dates).
+2.  The artwork's subject matter (using title and tags).
+3.  The historical period and significance (using object dates).
+4.  The materials and techniques used (using medium and classification).
+5.  Mention its size (dimensions) and where it is located (repository).
+
