@@ -11,3 +11,7 @@ Capstone Project/data/Met/MetObjects.txt
 # Exceptions (if you have smaller CSV or TXT files you want to keep)
 # !small_data.csv
 # !README.txt
+
+# macOS system files
+.DS_Store
+**/.DS_Store

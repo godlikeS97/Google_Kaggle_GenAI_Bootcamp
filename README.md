@@ -40,7 +40,6 @@ An intelligent art gallery tour guide system that leverages Large Language Model
 ```
 /Capstone Project
 ├── data/
-│   ├── met_with_images.csv
 │   └── sample50_df_drawings_and_prints.csv
 ├── demo.ipynb
 ├── results/
@@ -50,16 +49,33 @@ An intelligent art gallery tour guide system that leverages Large Language Model
 └── README.md
 ```
 
+### Large Data Files
+
+The following large data files have been excluded from this repository due to GitHub's file size limitations:
+
+- `Capstone Project/data/met_with_images_cleaned.csv` (166.78 MB)
+- `Capstone Project/data/met_with_images.csv` (167.20 MB)
+- `Capstone Project/data/met_public_domain.csv` (151.83 MB)
+- `Capstone Project/data/Met/MetObjects.txt` (302.94 MB)
+
+#### Obtaining the Data Files
+
+These files can be obtained from the Metropolitan Museum of Art's Open Access dataset:
+- [The Met's Open Access CSV](https://github.com/metmuseum/openaccess)
+- [The Met's Open Access on Kaggle](https://www.kaggle.com/datasets/metmuseum/the-metropolitan-museum-of-art-open-access)
+
+After downloading, place the files in the appropriate directories as listed above.
+
 For detailed setup and usage instructions, refer to the project's dedicated README in the Capstone Project directory.
 
 ## Course Content
 
 ### Day 1: Prompting and Evaluation
-- **Prompting Fundamentals**: 
+- **Prompting Fundamentals**:
   - Introduction to prompt engineering
   - Best practices for working with LLMs
   - Techniques for effective prompt design
-- **Evaluation and Structured Output**: 
+- **Evaluation and Structured Output**:
   - Techniques for evaluating LLM outputs
   - Automated evaluation methods
   - Pointwise and pairwise evaluation approaches
@@ -71,15 +87,15 @@ For detailed setup and usage instructions, refer to the project's dedicated READ
   - NeurIPS Evaluation Guidelines
 
 ### Day 2: Embeddings, Classification and RAG
-- **Embeddings and Similarity**: 
+- **Embeddings and Similarity**:
   - Working with embeddings from Gemini API
   - Calculating and utilizing similarity scores
   - Understanding vector representations
-- **Classification with Keras**: 
+- **Classification with Keras**:
   - Using embeddings for classification tasks
   - Implementing neural networks with Keras
   - Building classification models
-- **Document Q&A with RAG**: 
+- **Document Q&A with RAG**:
   - Implementation of Retrieval-Augmented Generation (RAG)
   - Using Chroma for document storage and retrieval
   - Building Q&A systems with RAG architecture
@@ -88,11 +104,11 @@ For detailed setup and usage instructions, refer to the project's dedicated READ
   - Task-Aware Embedding Implementation
 
 ### Day 3: Function Calling and Agent Building
-- **Function Calling with Gemini API**: 
+- **Function Calling with Gemini API**:
   - Understanding function calling capabilities
   - Building chat interfaces with automatic function calling
   - Practical implementation of function-enabled conversations
-- **Building Agents with LangGraph**: 
+- **Building Agents with LangGraph**:
   - Introduction to LangGraph framework
   - Creating and deploying AI agents
   - Implementing agent-based workflows and interactions
@@ -101,11 +117,11 @@ For detailed setup and usage instructions, refer to the project's dedicated READ
   - Agents Companion Guide
 
 ### Day 4: Model Fine-tuning and Search Integration
-- **Fine-tuning Custom Models**: 
+- **Fine-tuning Custom Models**:
   - Understanding model fine-tuning concepts
   - Implementing task-specific model customization
   - Best practices for fine-tuning Gemini models
-- **Google Search Integration**: 
+- **Google Search Integration**:
   - Incorporating Google Search results with Gemini API
   - Implementing search-based grounding
   - Building real-time information retrieval systems
