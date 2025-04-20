@@ -1,5 +1,57 @@
 # Google_Kaggle_GenAI_Bootcamp
 
+## Capstone Project: AI Art Gallery Tour Guide
+
+### Project Overview
+An intelligent art gallery tour guide system that leverages Large Language Models (LLMs) and computer vision capabilities to generate detailed, contextual explanations for artworks. The system combines structured metadata with visual analysis using the Metropolitan Museum of Art's collection data.
+
+### Key Features
+1. **Data Processing & Preparation**
+   - Processed Met Museum dataset (50 sample artworks from Drawings and Prints)
+   - Optimized feature selection (35 columns)
+   - Maintained image URLs for visual analysis
+
+2. **Baseline Implementation**
+   - Prompt engineering framework using Gemini API
+   - Structured prompts with artwork metadata
+   - Comprehensive evaluation system with quality ratings
+
+3. **Generation Control & Optimization**
+   - Token length control (200 tokens)
+   - Response length analysis and quality correlation
+   - Generation quality evaluation across constraints
+
+4. **Multimodal Integration**
+   - Image processing with Gemini's multimodal capabilities
+   - Combined textual and visual analysis
+   - Image-aware evaluation framework
+
+### Technical Stack
+- Python 3.x
+- Key Libraries:
+  - python-dotenv (environment variables)
+  - pandas (data processing)
+  - google-generativeai (Gemini API)
+  - requests (HTTP requests)
+  - tqdm (progress tracking)
+  - aiohttp (async HTTP)
+
+### Project Structure
+```
+/Capstone Project
+├── data/
+│   ├── met_with_images.csv
+│   └── sample50_df_drawings_and_prints.csv
+├── demo.ipynb
+├── results/
+│   ├── baseline/
+│   ├── output_length_control/
+│   └── image_input/
+└── README.md
+```
+
+For detailed setup and usage instructions, refer to the project's dedicated README in the Capstone Project directory.
+
 ## Course Content
 
 ### Day 1: Prompting and Evaluation
